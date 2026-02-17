@@ -1,4 +1,3 @@
-1/24/26 create repository for CIDM 4360, and changelog file.
 # Changelog
 **Author: Kanpicha Saisasong**
 
@@ -7,6 +6,6 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.0.1] - CURRENT_DATE
+## [0.0.1] - 2/17/2026
 ### Added
 - Changelog for CIDM4360 repository
